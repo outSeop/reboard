@@ -1,0 +1,9 @@
+{
+	"name": "board",
+	"version": "0.1.0",
+	"scripts": {
+		"server": "cd server && npm start",
+		"client": "cd client && npm start",
+		"dev": "npm run server &&  npm run client"
+	}
+}
